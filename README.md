@@ -87,3 +87,14 @@ __To run the main program:__
 __To run the unit tests:__
 
 > `> python -m unittest Triangle_Classifier_test.py`
+
+
+# To-Dos
+
+Add testing to address:
+- performance
+- reliabiity
+- security
+- precision limits
+- very very very very large numbers
+- program that generates triangles to test the classifier (dynamic input)
